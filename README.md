@@ -8,6 +8,8 @@ SCL ----------- A5
 GND ---------- GND
 ```
 
+https://youtu.be/rwvhXOSQxpE
+
 [![Alt text for your video](https://img.youtube.com/vi/rwvhXOSQxpE/maxresdefault.jpg)](https://youtu.be/rwvhXOSQxpE) 
 
 ![alt text](https://github.com/pgii/GyroCube/blob/master/GyroCubeScreenshots/GyroCubeUE4.jpg)
